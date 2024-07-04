@@ -1,4 +1,5 @@
 # IBM MQ
+Este é um exemplo de como implementar produzir e consumir mensagens de filas do IBM MQ.
 
 Acompanhe o README de cada projeto para executar corretamente.
 
