@@ -40,7 +40,7 @@ Endpoint JSON: https://localhost:8080/send/user
 "country":"Brazil"
 }
 ```
-Endpont STRING: https://localhost:8080/send/string
+Endpoint STRING: https://localhost:8080/send/string
 ```
 "Escreva sua frase"
 ```
